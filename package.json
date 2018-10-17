@@ -1,5 +1,5 @@
 {
-  "name": "camera",
+  "name": "@hyke/camera",
   "version": "0.0.0",
   "description": "",
   "keywords": [],
@@ -12,7 +12,7 @@
   "author": "Milan Deket <>",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/hyke-generator/camera.git"
   },
   "license": "MIT",
   "engines": {

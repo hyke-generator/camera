@@ -1,10 +1,10 @@
 # @hyke/camera 
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+
 
 [![Build Status](https://travis-ci.org/hyke-generator/camera.svg?branch=master)](https://travis-ci.org/hyke-generator/camera)
 [![dependencies Status](https://david-dm.org/hyke-generator/camera/status.svg)](https://david-dm.org/hyke-generator/camera)
 [![npm version](https://badge.fury.io/js/%40hyke%2Fcamera.svg)](https://badge.fury.io/js/%40hyke%2Fcamera.svg)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg)](#contributors)
 
 ## Contributors
 

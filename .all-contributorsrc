@@ -1,0 +1,35 @@
+{
+  "projectName": "@hyke/camera",
+  "projectOwner": "hyke-generator",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mdeket",
+      "name": "Milan Deket",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/9460508?v=4",
+      "profile": "https://github.com/mdeket",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas"
+      ]
+    },
+    {
+      "login": "lklacar",
+      "name": "Luka Klacar",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5981418?v=4",
+      "profile": "https://github.com/lklacar",
+      "contributions": [
+        "code",
+        "ideas",
+        "infra"
+      ]
+    }
+  ]
+}
